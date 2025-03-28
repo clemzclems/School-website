@@ -1,4 +1,4 @@
-# ROSAMBY ROYAL CLASSROOM  
+# CLEMZ 2ND TERM RESULT   
 **Weighting: 20% 20% 60%**  
 
 ## JSS 1 Mathematics  
