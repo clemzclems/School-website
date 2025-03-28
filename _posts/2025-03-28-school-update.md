@@ -1,12 +1,10 @@
 
-
 ---
 layout: post
 title: School Result RRCR PJPA & DLA
 date: 2025-03-28
 categories: updates
 ---
-
 # ROSAMBY ROYAL CLASSROOM  
 **Weighting: 20% 20% 60%**  
 
