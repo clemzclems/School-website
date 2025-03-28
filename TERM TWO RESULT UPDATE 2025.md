@@ -52,13 +52,14 @@
 
 ## JSS 3 Mathematics  
 | Name               | 1st | 2nd | Exam | Total |
+
 |--------------------|-----|-----|------|-------|
-| Favour Peter        | 10  | 10  | 49   | 69    |
-| Ogbewe Adesuwa      | 10  | 15  | 52   | 77    |
-| Osuolale Precious   | 10  | 10  | 21   | 41    |
-| Prince Eze          | 8   | 5   | 37   | 50    |
-| Grace Okoduwa       | 10  | 15  | 46   | 71    |
-| Emma Osabhuohien    | 11  | 8   | 35   | 54    |
+| Favour Peter       | 10  | 10  | 49   | 69    |
+| Ogbewe Adesuwa     | 10  | 15  | 52   | 77    |
+| Osuolale Precious  | 10  | 10  | 21   | 41    |
+| Prince Eze         | 8   | 5   | 37   | 50    |
+| Grace Okoduwa      | 10  | 15  | 46   | 71    |
+| Emma Osabhuohien   | 11  | 8   | 35   | 54    |
 
 ## SSS 1 Mathematics  
 | Name                     | 1st | 2nd | Exam | Total |
@@ -113,6 +114,7 @@
 ## SSS 2 Physics  
 
 | Name               | 1st | 2nd | Exam | Total |
+
 |--------------------|-----|-----|------|-------|
 | Isichel Marvelous  | 10  | 15  | 48   | 73    |
 | Okoduwa Success    | 11  | 15  | 54   | 80    |
@@ -187,12 +189,13 @@
 |-------------------------|-----|-----|------|-------|
 | Hitler Nowel Degbenye   | 12  | 15  | 41   | 68    |
 | Lohcwat Goodluck        | 10  | 14  | 40   | 64    |
+
 ---
 
 # DEFINITE LAND ACADEMY  
 **20% 20% 60%**  
 
-| ###**JSS 1 - Mathematics**:
+ ###**JSS 1 - Mathematics**:
 
 | Names                  | 1st | 2nd | Exam | Total |
 |------------------------|-----|-----|------|-------|
