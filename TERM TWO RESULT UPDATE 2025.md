@@ -52,7 +52,6 @@
 
 ## JSS 3 Mathematics  
 | Name               | 1st | 2nd | Exam | Total |
-
 |--------------------|-----|-----|------|-------|
 | Favour Peter       | 10  | 10  | 49   | 69    |
 | Ogbewe Adesuwa     | 10  | 15  | 52   | 77    |
@@ -114,7 +113,6 @@
 ## SSS 2 Physics  
 
 | Name               | 1st | 2nd | Exam | Total |
-
 |--------------------|-----|-----|------|-------|
 | Isichel Marvelous  | 10  | 15  | 48   | 73    |
 | Okoduwa Success    | 11  | 15  | 54   | 80    |
